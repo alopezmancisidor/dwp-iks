@@ -5,7 +5,7 @@ import java.io.Serializable;
 import org.springframework.samples.jpetstore.domain.Account;
 
 /**
- * @author Juergen Hoeller
+ * @author Juergen Hoeller changed made by Ana
  * @since 01.12.2003
  */
 public class AccountForm implements Serializable {
